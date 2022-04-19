@@ -3,8 +3,8 @@ package com.tns.Framework;
 public abstract class ShopAcc 
 {
 	private int Accno;
-    private String AccNm;
-    private float charges;
+        private String AccNm;
+        private float charges;
 	public int getAccno() {
 		return Accno;
 	}
